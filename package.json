@@ -1,0 +1,19 @@
+{
+    "name": "challenge-10",
+    "version": "1.0.0",
+    "description": "```\r For Web Developer Freelancer\r Creating a logo generator,\r SO they do not need to pay for the graphic designer.\r ```",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
