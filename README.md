@@ -33,3 +33,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 git repo: https://github.com/usachdeva/SVG-logo-maker
 deployed: https://usachdeva.github.io/SVG-logo-maker/
 ```
+
+## Walkthrough
+
+<video controls src="video/logo.svg - SVG-logo-maker.mp4" title="./video/logo.svg - SVG-logo-maker.mp4"></video>
