@@ -36,4 +36,6 @@ deployed: https://usachdeva.github.io/SVG-logo-maker/
 
 ## Walkthrough
 
-<video controls src="video/logo.svg - SVG-logo-maker.mp4" title="./video/logo.svg - SVG-logo-maker.mp4"></video>
+```
+Inside the video folder
+```
