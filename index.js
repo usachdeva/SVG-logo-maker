@@ -32,7 +32,6 @@ inquirer
         },
     ])
     .then((data) => {
-        console.log(data);
         const text = data.text;
         const text_color = data.textColor;
         const shape = data.shape;
@@ -44,11 +43,11 @@ inquirer
         // finding the shape
         const shapeLogo = (shape) => {
             if (shape == "circle") {
-                return writeFile("logo.svg", circle.render());
+                return writeFile("logo.svg", circle.renderLogo());
             } else if (shape == "triangle") {
-                return writeFile("logo.svg", triangle.render());
+                return writeFile("logo.svg", triangle.renderLogo());
             } else if (shape == "square") {
-                return writeFile("logo.svg", square.render());
+                return writeFile("logo.svg", square.renderLogo());
             }
         };
 
