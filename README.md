@@ -37,5 +37,5 @@ deployed: https://usachdeva.github.io/SVG-logo-maker/
 ## Walkthrough
 
 ```
-Inside the video folder
+video/index.js - SVG-logo-maker - Visual Studio Code 2024-07-06 18-58-05.mp4
 ```
